@@ -1,0 +1,14 @@
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.deps.json
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.runtimeconfig.json
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.runtimeconfig.dev.json
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.dll
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.pdb
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.AssemblyInfo.cs
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.dll
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.pdb
+/Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.genruntimeconfig.cache
