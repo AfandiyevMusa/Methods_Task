@@ -12,3 +12,17 @@
 /Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.dll
 /Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.pdb
 /Users/afandiyevmusa/Projects/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.genruntimeconfig.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.runtimeconfig.dev.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/bin/Debug/netcoreapp3.1/Task_Methods.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Methods/Task_Methods/obj/Debug/netcoreapp3.1/Task_Methods.genruntimeconfig.cache

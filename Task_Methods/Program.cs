@@ -2,7 +2,7 @@
 
 namespace Task_Methods
 {
-    class Program
+    class Methods
     {
         static void Main(string[] args)
         {
