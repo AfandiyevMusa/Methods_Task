@@ -6,7 +6,7 @@ namespace Task_Methods
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 2, 3, 4, 5, 25 };
+            int[] arr = { 0, 1, 2, 3, 4, 5, 25 };
 
             //Task_1
             Dividing3Or7(21);
@@ -27,10 +27,10 @@ namespace Task_Methods
             Console.WriteLine(CountEvenNumbersInArray(arr));
 
             //Task_7
-            PrimeOrComplex(6);
+            PrimeOrComplex(20);
 
             //Task_8
-            TheNumberIsPowerOf2(16, 2);
+            TheNumberIsPowerOf2(5);
 
             //Task_9
             Console.WriteLine(FindResOfNumbersBetween1And20(arr));
@@ -112,7 +112,7 @@ namespace Task_Methods
             int cnt = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                if (arr[i] % 2 == 0)
+                if (arr[i] % 2 == 0 && arr[i] != 0)
                 {
                     cnt++;
                 }
@@ -149,7 +149,7 @@ namespace Task_Methods
         }
 
         //Task_8
-        public static void TheNumberIsPowerOf2(int n, int i)
+        public static void TheNumberIsPowerOf2(int n, int i = 2)
         {
             if (n < 1)
             {
